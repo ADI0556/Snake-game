@@ -1,1 +1,1 @@
-# Snake-game
+# Space Shooter Game
